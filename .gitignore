@@ -31,3 +31,4 @@ tmp/
 # CAD source, generated STEP outputs, and explorer CAD artifacts are tracked via Git LFS in .gitattributes.
 
 copy-tom-source
+config.bat
